@@ -18,11 +18,17 @@ https://pixelfed.org/
 ### My Server is connected
 
 https://relay.freespeech.club/inbox
+
 https://relay.101010.pl/inbox
+
 https://relay.dresden.network/inbox
+
 https://relay.fedibird.com/inbox
+
 https://relay.minecloud.ro/inbox
+
 https://relay.libranet.de/inbox
+
 https://relay.libranet.de/inbox
 
 
