@@ -6,18 +6,25 @@ https://mastodon.digitalsuccess.dev/
 
 and my name is @eric_maechler@mastodon.digitalsuccess.dev
 
-
-
-## links
-https://github.com/josefkenny/usercount
-
-https://github.com/gled-rs/mastodon-autofollow
+## find new instances?
+https://instances.social/
 
 
 ## Fediverse
 https://joinpeertube.org/
 
 https://pixelfed.org/
+
+## Mastodon Documentation
+https://docs.joinmastodon.org/
+
+
+## scripts for mastodon coder
+https://github.com/josefkenny/usercount
+
+https://github.com/gled-rs/mastodon-autofollow
+
+
 
 ## Relais
 
