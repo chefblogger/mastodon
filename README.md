@@ -8,7 +8,7 @@ https://github.com/josefkenny/usercount
 https://github.com/gled-rs/mastodon-autofollow
 
 
-##Fediverse
+## Fediverse
 https://joinpeertube.org/
 
 https://pixelfed.org/
