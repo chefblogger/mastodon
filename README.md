@@ -1,6 +1,12 @@
 # mastodon
 some usefull links and content for mastodon
 
+# this is my mastodon instance
+https://mastodon.digitalsuccess.dev/
+
+and my name is @eric_maechler@mastodon.digitalsuccess.dev
+
+
 
 ## links
 https://github.com/josefkenny/usercount
