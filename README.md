@@ -24,7 +24,12 @@ https://github.com/josefkenny/usercount
 
 https://github.com/gled-rs/mastodon-autofollow
 
+## Mastodon Install
+A simple way to install mastodon - use this tools:
+Cloudron or Yunohost. Yunohost works well on a Raspberry Pi. i Use Cloudron on a Linode Server.
 
+https://www.cloudron.io/
+https://yunohost.org/#/
 
 ## Relais
 
